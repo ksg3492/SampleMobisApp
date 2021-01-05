@@ -1,1 +1,3 @@
 /build
+/src/androidTest/java/com/sunggil/samplemobisapp/
+/src/test/java/com/sunggil/samplemobisapp/ExampleUnitTest.kt
